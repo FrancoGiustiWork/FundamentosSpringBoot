@@ -82,10 +82,6 @@ A continuación se muestran las salidas de la consola para cada perfil de ejecuc
 
 ![Salida del perfil prod](pefilProdr.png)
 
-## Conclusiones Personales
-
-*[Escribe aquí tus conclusiones sobre el aprendizaje obtenido durante el trabajo práctico. ¿Qué conceptos te parecieron más interesantes o desafiantes? ¿Cómo te ayudará Spring Boot en futuros proyectos?]*
-
 ## Autor
 
 - **Nombre:** Franco Giusti
